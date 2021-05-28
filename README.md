@@ -20,4 +20,4 @@ Un juego básico muy divertido de crear.
 -Assert statements
 - Manejor de archivos
 
-Gracias a quienes llegan aquí y aportan ideas para ser mejor cada día. Gracias a [Platzi](https://platzi.com/ "Platzi ) por ayudar a muchas personas a nunca parar de aprender.
+Gracias a quienes llegan aquí y aportan ideas para ser mejor cada día. Gracias a [**Platzi**](https://platzi.com/ "Platzi") por ayudar a muchas personas a nunca parar de aprender.
