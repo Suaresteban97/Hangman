@@ -2,7 +2,7 @@
 Un juego básico muy divertido de crear.
 > Gracias a lo aprendido en el curso intermedio de Python, creamos este juego como parte de un reto del profesor Facundo **(Excelente profeor)** el cual nos pone a prueba aplicando todos los conocimientos aprendidos. 
 >
--Esteban Suarez
+>-Esteban Suarez
 
 ¿Qué se aprende en este curso?
 - Principios Zen de Python
