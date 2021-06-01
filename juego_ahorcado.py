@@ -8,7 +8,7 @@ def read():
         words = [i.replace("\n", "") for i in f]
     return words
 
-def normalize(s): # It removes the accents of a string
+def normalize(s): # Remueve los acentos
         replacements = (
             ("á", "a"),
             ("é", "e"),
